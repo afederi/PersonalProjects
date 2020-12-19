@@ -10,5 +10,5 @@ Basically, in the GUI, if I input any string to your program, each machine will 
  
 [part 2](https://www.youtube.com/watch?v=RkB72JMVjkc&feature=youtu.be)
  
-[project demo]()
+[project demo](https://www.youtube.com/watch?v=vIdv6LVsTJU&feature=youtu.be)
  
